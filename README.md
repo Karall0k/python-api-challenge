@@ -6,7 +6,8 @@ The objective of this challegne is to integrate python and API skills to evaluat
 
 Weather plots generated for No. 1 along and relationship analysis are below:
 
-[INSERT IMAGE]
+[Fig1](https://github.com/Karall0k/python-api-challenge/assets/159746445/8c8b7e39-1fb5-4c40-92ac-5f10d6826bf1)
+
 [INSERT IMAGE]
 
 The two charts above, plot latitude vs. temperature for cities located in the northern hemisphere and southern hemisphere, separately. Both plots show a corrolation between temperature and latitude: the highest temperatures occur in cities that are closer to the equator (Latitude = 0), and the lowest temperatures generally occur in cities closer to the poles. the r-squared values are above 0.6, which is the strongest corrolation amoung the four relationships evaluated in this challenge.
