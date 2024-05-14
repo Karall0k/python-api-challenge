@@ -6,6 +6,7 @@ The objective of this challegne is to integrate python and API skills to evaluat
 
 Weather plots generated for No. 1 along and relationship analysis are below:
 (Figures 1 through 4 show data without linear regression lines and can be found in the output data folder)
+
 ![Fig 5](/WeatherPy/output_data/Fig5.png)
 ![Fig 6](/WeatherPy/output_data/Fig6.png)
 
@@ -31,3 +32,6 @@ The two charts above, plot latitude vs. wind speed for cities located in the nor
 
 The Map showing the location of the hotel in my ideal weather location, is below:
 ![Hotels in locations with ideal weather](/WeatherPy/output_data/Hotels.png)
+
+
+Sources: Some of the code used in VacationPy was taken from the following source: https://github.com/RJBarker/python-api-challenge/tree/main.
