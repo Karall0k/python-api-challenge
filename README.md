@@ -6,7 +6,7 @@ The objective of this challegne is to integrate python and API skills to evaluat
 
 Weather plots generated for No. 1 along and relationship analysis are below:
 
-[Fig1](https://github.com/Karall0k/python-api-challenge/assets/159746445/8c8b7e39-1fb5-4c40-92ac-5f10d6826bf1)
+[Fig1]([https://github.com/Karall0k/python-api-challenge/assets/159746445/8c8b7e39-1fb5-4c40-92ac-5f10d6826bf1](https://github.com/Karall0k/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png))
 
 [INSERT IMAGE]
 
